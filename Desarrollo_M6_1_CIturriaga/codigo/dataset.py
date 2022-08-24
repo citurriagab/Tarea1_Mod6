@@ -1,6 +1,9 @@
 
 ## https://raw.githubusercontent.com/citurriagab/Data_Hist_Resultados/main/RESULTADO_2019_2020.csv
 
+"""
+    dataset.py: modulo donde se especifica la descarga de la base de datos
+"""
 import pandas as pd
 
 DATA_SOURCE = "https://raw.githubusercontent.com/citurriagab/Data_Hist_Resultados/main/RESULTADO_2019_2020.csv"
